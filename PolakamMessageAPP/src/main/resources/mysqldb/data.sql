@@ -1,0 +1,1 @@
+insert into User(FName, LName,phone_number, EmailID) values("kishore","elchuri","5105566541","kishore.elchuri@gmail.com");
